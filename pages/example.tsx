@@ -1,3 +1,3 @@
 export default function Example(){
-    return <h1></h1>
+    return <h1>hello next.js</h1>
 }
